@@ -1,0 +1,15 @@
+{
+    "nombre": "JBL Quantum",
+    "categoria": "Audifonos",
+    "caracteristicas": {
+        "color": "azul",
+        "tamaño": "mediano"
+    },
+    "descripcion_corta": "Auriculares integrales profesionales de gaming en PC con cable USB y sistema de seguimiento de cabeza QuantumSPHERE 360",
+    "descripcion_larga": "Aporte épica a su juego. Los auriculares con cable JBL Quantum ONE ofrecen calidad profesional, sonido envolvente JBL QuantumSPHERE 360™ con seguimiento de cabeza mejorado y cancelación activa del ruido para gaming. Con un posicionamiento preciso del sonido, el sistema JBL Quantum SOUND Signature produce una curva inmersiva gracias a sus amplificadores de neodimio de 50 mm y alta definición. El micrófono vocal desmontable ofrece interacciones claras, supresión del ruido, funciones de silencio y un dial de ajuste de volumen con certificación DISCORD. Su diseño ligero y ergonómico le hará sentirse cómodo mientras que el sistema JBL QuantumENGINE ofrece opciones personalizables y perfiles de usuario. Los JBL Quantum ONE representan la vanguardia y el nivel de realismo virtual más profundo.",
+    "precio":"899",
+    "moneda":"S",
+    "valoracion": 4,
+    "stock": 10,
+    "activo": true
+  }
