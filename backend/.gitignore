@@ -1,0 +1,4 @@
+.env
+node_modules/
+pasos.txt
+package-lock.json

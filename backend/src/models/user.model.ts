@@ -1,5 +1,6 @@
 import { Schema, SchemaTypes, model } from 'mongoose';
 
+//LLAMADO PRODUCTO PROBLEMAS AL CREAR NUEVA DB
 const UserSchema = new Schema({
 	name: {
 		type: String,
@@ -12,6 +13,10 @@ const UserSchema = new Schema({
 	email: {
 		type: String,
 		required: true
+	},
+	role: {
+		type: String,
+		required: false
 	},
 	password: {
 		type: String,
@@ -26,6 +31,10 @@ const UserSchema = new Schema({
 	is_single: {
 		type: Boolean,
 		required: false,
+	},
+	courses: {
+		type: Object,
+		required: false
 	},
 	create_at: {
 		type: SchemaTypes.Date,
